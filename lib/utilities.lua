@@ -86,7 +86,8 @@ STAR_UTIL.enabled_jokers = {
   --'sappy',
   --'auzzy',
   --'paper_dragon',
-  --'ghost',
+  'athebyne',
+  'ghost',
 
   --'apollo_11',
   --'lock_with_ink_pen',

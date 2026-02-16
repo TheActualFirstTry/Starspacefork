@@ -57,6 +57,15 @@ return {
           "{C:inactive}(Currently {C:chips}#2#{C:inactive} Chips){}"
         }
       },
+      j_star_athebyne = {
+        name = "Athebyne",
+        text = {
+          "Upgrade level of",
+          "played {C:attention}poker hand{}",
+          "if it contains",
+          "a {C:attention}Two Pair{}"
+        }
+      },
       j_star_bacon_burger = {
         name = "Bacon Burger",
         text = {
@@ -170,6 +179,15 @@ return {
             "{C:attention}Lucky{} cards' probabilities",
             "are {C:attention}quadrupled{}"
           }
+        }
+      },
+      j_star_ghost = {
+        name = "Ghost",
+        text = {
+          "Held {C:tarot}Tarot{} cards give",
+          "{C:white,X:mult}X#1#{} Mult, gains {C:white,X:mult}X#2#{} Mult per",
+          "consecutive round without",
+          "selling a {C:tarot}Tarot{} card"
         }
       },
       j_star_glorp = {
