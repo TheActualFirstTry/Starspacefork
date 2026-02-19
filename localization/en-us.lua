@@ -467,6 +467,14 @@ return {
           "{C:inactive}(Currently {C:chips}+#2#{C:inactive} Chips)"
         }
       },
+      j_star_the_truth = {
+        name = "The Truth",
+        text = {
+          "{C:white,X:mult}X#1#{} Mult if",
+          "played hand is",
+          "a {C:attention}High Card{}"
+        }
+      },
       j_star_the_spacial = {
         name = "The Spacial",
         text = {

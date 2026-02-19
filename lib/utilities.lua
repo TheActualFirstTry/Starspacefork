@@ -66,7 +66,7 @@ STAR_UTIL.enabled_jokers = {
   --'jombo',
   --'junkyard',
 
-  --'the_loner',
+  'the_truth',
   'the_spacial',
   --'the_monarchy',
   --'antijoker',
